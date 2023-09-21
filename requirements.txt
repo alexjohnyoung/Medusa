@@ -1,0 +1,5 @@
+colorama
+requests
+selenium
+bs4
+undetected-chromedriver
