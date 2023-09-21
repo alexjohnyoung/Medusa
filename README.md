@@ -56,11 +56,17 @@ This project was conceived and built as a side hobby. I wanted to challenge myse
 Once the Medusa console starts, you'll be presented with a main menu. Follow the on-screen instructions to navigate through different features.
 
 For specific features:
-- TikTok Video Handling: Choose the 'Download Videos' option and provide necessary details.
-- Posting: Go to the 'Posting' option for options relating to video uploads
-- Job Automation: Under 'Jobs', manage all your running or scheduled tasks.
-- Proxy Management: Navigate to 'Proxy Management' from the main menu and follow on-screen instructions.
-- Settings & Accounts: Modify your settings or manage your TikTok profiles seamlessly.
+
+**TikTok Video Handling**: Choose the 'Download Videos' option and provide necessary details.
+
+**Posting**: Go to the 'Posting' option for options relating to video uploads
+
+**Job Automation**: Under 'Jobs', manage all your running or scheduled tasks.
+
+**Proxy Management**: Navigate to 'Proxy Management' from the main menu and follow on-screen instructions.
+
+**Settings & Accounts**: Modify your settings or manage your TikTok profiles seamlessly.
+
 To exit Medusa, simply choose the 'Exit' option from the main menu or press CTRL+C.
 
 ## Contribution:
