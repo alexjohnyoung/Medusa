@@ -37,7 +37,7 @@ This project was conceived and built as a side hobby. I wanted to challenge myse
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-github-username/medusa.git
+   git clone https://github.com/alexjohnyoung/medusa.git
 
 2. **Navigate to the Project Directory**:
    ```bash
